@@ -1,5 +1,5 @@
 {
-  "name": "jd_docker",
+  "name": "jd_scripts",
   "version": "1.0.1",
   "description": "{**When you're done, you can delete the content in this README and update the file with details for others getting started with your repository**}",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/CoolLeiVip/jd_docker.git"
+    "url": "https://github.com/CoolLeiVip/jd_scripts.git"
   },
   "keywords": [
     "京东薅羊毛工具, 京东水果、宠物、种豆等等"
