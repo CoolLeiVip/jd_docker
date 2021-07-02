@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/XXXXXXXXXX/jd_docker.git"
+    "url": "https://github.com/CoolLeiVip/jd_docker.git"
   },
   "keywords": [
     "京东薅羊毛工具, 京东水果、宠物、种豆等等"
   ],
-  "author": "XXXXXXXXXX",
+  "author": "CoolLeiVip",
   "license": "ISC",
   "dependencies": {
     "canvas": "^2.8.0",
